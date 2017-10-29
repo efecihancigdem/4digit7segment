@@ -1,5 +1,5 @@
 # 4 Digit 7 Segment Display
-Library approach to use a 4 digit 7 segment display on Arduino Platform\
+Library approach to use a 4 digit 7 segment display on Arduino Platform
 
 4dig7seg.h - Library for controlling 4 digit 7 segment display.\
 Created by Efe Cihan Cigdem, October 29, 2017.\
