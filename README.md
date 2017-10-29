@@ -2,13 +2,14 @@
 Library approach to use a 4 digit 7 segment display on Arduino Platform
 
 4dig7seg.h - Library for controlling 4 digit 7 segment display.
-Created by Efe Cihan Cigdem, October 9, 2017.
+Created by Efe Cihan Cigdem, October 29, 2017.
 Released into the public domain.
+Example code and library code is provided.
 
 
 //DECLERATION OF THE PINS AND CONNECTIONS
 
-digit1 => 2 - Pin 12 on 4 digit display to Arduino pin 2
+digit1 => 2 - Pin 12 on 4 digit display to Arduino pin 2\
 digit2 => 3 - Pin 9 on 4 digit display to Arduino pin 3
 digit3 => 4 - Pin 8 on 4 digit display to Arduino pin 4
 digit4 = >5 - Pin 6 on 4 digit display to Arduino pin 5
