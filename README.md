@@ -12,7 +12,7 @@ Example code and library code is provided.
 digit1 => 2 - Pin 12 on 4 digit display to Arduino pin 2\
 digit2 => 3 - Pin 9 on 4 digit display to Arduino pin 3\
 digit3 => 4 - Pin 8 on 4 digit display to Arduino pin 4\
-digit4 = >5 - Pin 6 on 4 digit display to Arduino pin 5\
+digit4 = >5 - Pin 6 on 4 digit display to Arduino pin 5
 
 //SEGMENT PINS
 
@@ -23,4 +23,4 @@ segD => 9 - Pin 2 on 4 digit display to Arduino pin 9\
 segE => 10 - Pin 1 on 4 digit display to Arduino pin 10\
 segF => 11 - Pin 10 on 4 digit display to Arduino pin 11\
 segG => 12 - Pin 5 on 4 digit display to Arduino pin 12\
-segH => 13 - Pin 3 on 4 digit display to Arduino pin 13\
+segH => 13 - Pin 3 on 4 digit display to Arduino pin 13
