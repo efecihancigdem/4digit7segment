@@ -6,7 +6,7 @@ Created by Efe Cihan Cigdem, October 29, 2017.\
 Released into the public domain.\
 Example code and library code is provided.
 
-In order to use it, place header and souce code into Arduiono Libraries folder located in your computer. Dor the futher usage take a look at the example code.
+In order to use it, place header and souce code into Arduiono Libraries folder located in your computer. For the futher usage take a look at the example code.
 
 
 //DECLERATION OF THE PINS AND CONNECTIONS
